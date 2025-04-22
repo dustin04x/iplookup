@@ -21,7 +21,7 @@ A simple Python script that retrieves geographical and other information about a
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/iplookup.git
+git clone https://github.com/dustin04x/iplookup.git
 cd iplookup
 ```
 
